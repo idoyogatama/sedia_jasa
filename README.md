@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## ket git
+U (Untracked) = file yang belum pernah dimasukkan ke dalam Git (file baru)
+M (Modified) = file yang sudah masuk ke dalam database Git dan sudah pernah dimodifikasi
+D (Delete) = file yang dihapus
+A (Added) = file yang ditambahkan ke dalam mode staged
